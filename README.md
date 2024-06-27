@@ -9,4 +9,4 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 * Netlify
 
 # Live Link:
-clone-create-byabhay-amzon-clone.netlify.app
+https://clone-create-byabhay-amzon-clone.netlify.app
